@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+
+    .color-box {
+        width: 150px;
+        height: 150px;
+    }
+
+    input {
+        width: 80%;
+    }
+
+    button {
+        width: 45%;
+    }
+}
